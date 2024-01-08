@@ -1,0 +1,23 @@
+.buttons_group {
+    margin: 8px;
+    width: fit-content;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 12px;
+   
+   
+  
+}
+
+.Btn {
+    width: 75px;
+    height: 75px;
+    font-size: 24px;
+    margin: 3px;
+    font-weight: 400;
+    font-size: 18px;
+    border-radius: 10px;
+}
+
+

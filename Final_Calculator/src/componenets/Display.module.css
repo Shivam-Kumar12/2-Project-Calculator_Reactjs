@@ -1,0 +1,12 @@
+.display {
+    margin: 15px;
+    width:fit-content;
+    font-size: 28px;
+    border-radius: 5px;
+    text-align:right;
+}
+
+.message {
+    color: red; /* Add your desired styles for the message */
+    font-size: 20px;
+  }
