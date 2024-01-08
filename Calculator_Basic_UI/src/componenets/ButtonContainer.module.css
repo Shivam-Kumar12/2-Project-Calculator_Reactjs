@@ -1,0 +1,13 @@
+.buttons_group{
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.Btn{
+    width: 45px;
+    height: 45px;
+    margin: 3px ;
+    font-weight: 400;
+    font-size: 18px;
+}
